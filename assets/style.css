@@ -18,14 +18,9 @@ body{
     border-radius: 5px;
     border: 0;
 }
-/* banner section styling */
+/* banner section Styling*/
 
-header{
-    /* display: flex;
-    justify-content: right;
-    align-items: center; */
-}
-.banner-main{
+.header-container{
     background-image: url('./images/banner/banner1.png');
     padding: 216px 230px 166px 0;
     display: flex;
